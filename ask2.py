@@ -17,5 +17,5 @@ while ( i > 0 ):
         else:
             w[i-1] = "bad"
     i = i - 1    
-#print(w)             
+print(w)             
              
